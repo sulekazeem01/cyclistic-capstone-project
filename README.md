@@ -30,5 +30,5 @@ I analyzed 12 months of bike-share data from Cyclistic to uncover rider trends a
 
 **Sule Kazeem**  
 [LinkedIn](https://www.linkedin.com/in/sule-kazeem)  
-Email: sulekazeem01@gmail.com
+Email: sule.kazeem.data@gmail.com
 
